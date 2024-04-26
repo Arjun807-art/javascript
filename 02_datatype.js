@@ -1,4 +1,4 @@
-//  tc39 mdn plateform
+
 // primitive(boolen,Number,String,intiager,null,undefined,symbol(unique))
 // null datatype (object)
 // let score=null
